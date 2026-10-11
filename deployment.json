@@ -1,0 +1,11 @@
+{
+  "network": "StudioNet",
+  "account": "SAMiiNW",
+  "contractAddress": "0x3863C337Fe34Be7Bb8796Fc634FbaaB6487f922a",
+  "deploymentTransaction": "0x2a5254a6a0553e9346360aad0add689637a5a23b1d70549dea42c76a867fd2c6",
+  "deploymentConsensus": "MAJORITY_AGREE",
+  "deploymentExecution": "SUCCESS",
+  "sourceSha256": "678afe2fc33f8706708e2b513c241e1f82bbb01f7f6d12340878d073a9e6f83e",
+  "sourceCommit": "be5e2bde8e5246e53be66a0af372b6d39062b949",
+  "repository": "https://github.com/SAMiiNW/counterfactual-mirror"
+}

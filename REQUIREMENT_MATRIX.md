@@ -7,5 +7,5 @@
 | Every state-driving field validator-bound | `_inspect` comparative return | forged justification test | PASS |
 | Source bytes attributable | `_fetch`, stored URLs and SHA-256 digests | lifecycle readback | PASS |
 | Deterministic verdict | `inspect_pair` | parity, justified, disparate, non-comparable tests | PASS |
-| Exact reviewed deployment | deployment receipt and fetched source | network deployment | UNVERIFIED |
-| Finalized live pair | Explorer transaction and readback | network smoke test | UNVERIFIED |
+| Exact reviewed deployment | deployment receipt and fetched source | `evidence/deployment-verification.json` | PASS |
+| Finalized live pair | Explorer transaction and readback | `evidence/live-proof.json` | PASS |

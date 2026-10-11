@@ -1,0 +1,47 @@
+{
+  "mirrorId": "PAIR-1791754602",
+  "transactions": {
+    "register": "0x085e8a274bc8af1c3e334c101a0d755eeb8a65b3bedbb477d3d1d68a80afb18a",
+    "inspect": "0xab3d657a84c652a5f7c1b30d417c2ad7af9ac9bdc2a0dfd4262f3bc2471ded16"
+  },
+  "state": {
+    "auditor": "0x013A0745a3b2DbF87f4AB377266fCcb7e6eEC88A",
+    "case_outcomes": [
+      "APPROVE",
+      "DENY"
+    ],
+    "case_urls": [
+      "https://raw.githubusercontent.com/SAMiiNW/counterfactual-mirror/be5e2bde8e5246e53be66a0af372b6d39062b949/evidence/left-case.md",
+      "https://raw.githubusercontent.com/SAMiiNW/counterfactual-mirror/be5e2bde8e5246e53be66a0af372b6d39062b949/evidence/right-case.md"
+    ],
+    "different_indexes": [],
+    "digests": [
+      "d25e117bc03af966ba866f07e15f94ef2bf7c9b80c2355053fec9d4b90629ac6",
+      "c28f6575be885ebd2a108bcb6de397c711b91762f48829742037f3e474909d26",
+      "5e9d10780a1821ebbaa055cf22b01bf81d7085ea3a29b9f4eebc2f1b13967a5b"
+    ],
+    "divergence_justification": "UNSUPPORTED",
+    "factors": [
+      "Documented severity of the incident",
+      "Prior warnings on the account",
+      "Measured customer impact"
+    ],
+    "id": "PAIR-1791754602",
+    "outcome_codes": [
+      "APPROVE",
+      "DENY"
+    ],
+    "owner": "0xCAFA30BF94D4fb01146588a1b7901BD85E7DbD0f",
+    "policy_url": "https://raw.githubusercontent.com/SAMiiNW/counterfactual-mirror/be5e2bde8e5246e53be66a0af372b6d39062b949/evidence/policy.md",
+    "protected_axis": "Declared operating region of the applicant",
+    "protected_axis_differs": true,
+    "same_indexes": [
+      0,
+      1,
+      2
+    ],
+    "state": "DISPARATE",
+    "title": "Paired access decisions"
+  },
+  "disclosure": "The two cases, policy, and configured wallets are operator-controlled technical fixtures."
+}
